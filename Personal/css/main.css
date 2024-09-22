@@ -105,7 +105,6 @@
   position: relative;
   display: inline-block;
   padding: 10px; /* Space around the text */
-  border: 2px solid black; /* The border for the running circle */
 }
 
 /* Style for the running circle (dot) */
